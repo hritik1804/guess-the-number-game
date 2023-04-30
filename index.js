@@ -20,3 +20,4 @@ while (guesses > 0) {
 if (guesses === 0) {
   alert("Sorry, you ran out of guesses. The secret number was " + randomnumber + ".");
 }
+
